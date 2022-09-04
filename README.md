@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/darkito__" target="blank"><img src="https://img.shields.io/twitter/follow/darkito__?logo=twitter&style=for-the-badge" alt="darkito__" /></a> </p>
 
+<p align="left"> <a href="https://www.twitch.tv/darkblue97_" target="blank"><img src="https://img.shields.io/twitch/status/darkblue97_?logo=twitch&style=for-the-badge" alt="darkblue97_" /></a> </p>
+
+<p align="left"> <a href="https://discord.gg/rnkGCyXtfp" target="blank"><img src="https://img.shields.io/discord/744121707006132264?logo=twitch&style=for-the-badge" alt="darkblue97_" /></a> </p>
+
+
+
 - 📫 How to reach me **darkvalhalla@proton.me**
 
 <h3 align="left">Connect with me:</h3>
