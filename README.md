@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel !</h1>
 <h3 align="center">A passionate developer from Barcelona, Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valkyaha" alt="valkyaha" /></a> </p>
+<p>Hi I'm Miguel Ángel, a developer who likes to learn a lot, also like games in all ways.
+
+I've been coding for almost 10 years now, started very young, at 12 with some markup languages as HTM+CSS, then moved to C and Java. I'd like to play gamnes, archery, music and of course programming.
+
+</p>
 
 <p align="left"> <a href="https://twitter.com/darkito__" target="blank"><img src="https://img.shields.io/twitter/follow/darkito__?logo=twitter&style=for-the-badge" alt="darkito__" /></a> </p>
 
