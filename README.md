@@ -3,7 +3,7 @@
 
 <p>Hi I'm Miguel Ángel, a developer who likes to learn a lot, also like games in all ways.
 
-I've been coding for almost 10 years now, started very young, at 12 with some markup languages as HTM+CSS, then moved to C and Java. I'd like to play gamnes, archery, music and of course programming.
+I've been coding for almost 10 years now, started very young, at 12 with some markup languages as HTM+CSS, then moved to C and Java. I'd like to play games, archery, music and of course programming.
 
 </p>
 
