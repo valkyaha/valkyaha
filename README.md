@@ -33,5 +33,3 @@ I've been coding for almost 10 years now, started very young, at 12 with some ma
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valkyaha&show_icons=true&locale=en" alt="valkyaha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valkyaha&theme=dark" alt="valkyaha" /></p>
-
