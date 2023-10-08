@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel !</h1>
+<h1 align="center">Hi 👋, I'm Charlotte !</h1>
 <h3 align="center">A passionate developer from Barcelona, Spain</h3>
 
 <p>Hi I'm Miguel Ángel, a developer who likes to learn a lot, also like games in all ways.
