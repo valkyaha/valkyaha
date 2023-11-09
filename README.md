@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Charlotte !</h1>
+<h1 align="center">Hi 👋!</h1>
 <h3 align="center">A passionate developer from Barcelona, Spain</h3>
 
-<p>Hi I'm Charlotte, a developer who likes to learn a lot, also like games in all ways.
+<p>Hi I'm a developer who likes to learn a lot, also like games in all ways.
 
 I've been coding for almost 10 years now, started very young, at 12 with some markup languages as HTM+CSS, then moved to C and Java. I'd like to play games, archery, music and of course programming.
 
