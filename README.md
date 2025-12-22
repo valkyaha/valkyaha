@@ -1,4 +1,6 @@
-# Hi 👋 Char
+<div align="center">
+
+  # Hi 👋 I'm Char
 
   ### Passionate Developer from Barcelona, Spain
 
@@ -26,8 +28,17 @@
   ## 🌐 Connect With Me
 
   <p align="center">
+    <a href="https://bsky.app/profile/valkyaha.bsky.social" target="_blank">
+      <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="40" />
+    </a>
+    <a href="https://ko-fi.com/darkittyvt" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="40" />
+    </a>
     <a href="https://dev.to/valkyaha" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
+    </a>
+    <a href="https://instagram.com/miiguel_loopez_" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
     </a>
     <a href="https://www.youtube.com/channel/UCeFizxsse0dsVPqttESZyeQ" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
@@ -40,6 +51,7 @@
 
   ### Languages
   <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -91,9 +103,13 @@
   ## 📊 GitHub Stats
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=valkyaha&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=valkyaha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valkyaha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkyaha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valkyaha&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </div>
