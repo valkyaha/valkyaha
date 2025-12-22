@@ -26,9 +26,6 @@
   ## 🌐 Connect With Me
 
   <p align="center">
-    <a href="https://twitter.com/darkito__" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-    </a>
     <a href="https://dev.to/valkyaha" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
     </a>
