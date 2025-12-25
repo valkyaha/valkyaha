@@ -13,7 +13,7 @@
 
   ## 👨‍💻 About Me
 
-  I'm a developer who loves to learn and explore new technologies. My journey in programming started almost 10 years ago when I was just 12 years old, beginning with HTML & CSS, then moving to C and Java.
+  I'm a developer who loves to learn and explore new technologies. My journey in programming 10 years ago when I was just 12 years old, beginning with HTML & CSS, then moving to C and Java.
 
   **When I'm not coding, you'll find me:**
   - 🎮 Playing games
